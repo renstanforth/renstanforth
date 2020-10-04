@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Welcome to my profile!
-I am a Full Stack Developer from <img src="https://www.flaticon.com/svg/static/icons/svg/197/197561.svg" width="20"/> <b>Cebu, Philippines</b> and will migrate to the <img src="https://www.flaticon.com/svg/static/icons/svg/197/197374.svg" width="20"/> UK soon! Currently, I'm a Senior Software Developer handling a 3-man team <img src="https://www.flaticon.com/svg/static/icons/svg/921/921347.svg" width="20"/>
+I am a Full Stack Developer from <img src="https://www.flaticon.com/svg/static/icons/svg/197/197561.svg" width="20"/> <b>Cebu, Philippines</b> and will migrate to the <img src="https://www.flaticon.com/svg/static/icons/svg/197/197374.svg" width="20"/> UK soon! Currently, I'm a Senior Software Developer handling a <img src="https://www.flaticon.com/svg/static/icons/svg/921/921347.svg" width="25"/> 3-person team.
 
 Thanks for the visit! I'd love to [connect](https://www.linkedin.com/in/reneecampanilla/)!
 
