@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Welcome to my profile!
-I am a Full Stack Developer from <img src="https://www.flaticon.com/svg/static/icons/svg/197/197561.svg" width="20"/> <b>Cebu, Philippines</b> and will migrate to the <img src="https://www.flaticon.com/svg/static/icons/svg/197/197374.svg" width="20"/> UK soon! Currently, I'm a Senior Software Developer handling a <img src="https://www.flaticon.com/svg/static/icons/svg/921/921347.svg" width="25"/> 3-person team.
+I am currently a FullStack WordPress Developer from <img src="https://cdn-icons-png.flaticon.com/512/203/203027.png" width="20"/> <b>Cebu, Philippines</b> and will migrate to the <img src="https://cdn-icons-png.flaticon.com/512/202/202839.png" width="20"/> UK soon! I'm also a Deputy Manager for my employer's WordPress Department and handling a team with 11 members.
 
 Thanks for the visit! I'd love to [connect](https://www.linkedin.com/in/renstanforth/)!
 
@@ -30,8 +30,9 @@ Thanks for the visit! I'd love to [connect](https://www.linkedin.com/in/renstanf
 [![Ren's github stats](https://github-readme-stats.vercel.app/api?username=renstanforth&show_icons=true&theme=vue)](https://github.com/renstanforth/github-readme-stats)
 
 ## Where to find me
+[![Website Badge](https://img.shields.io/badge/website-RENSTANFORTH.COM-blueviolet?&style=flat-square)](https://renstanforth.com/)
 [![Linkedin Badge](https://img.shields.io/badge/RENSTANFORTH%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renstanforth/)
 [![StackoverFlow Badge](https://img.shields.io/badge/-RenCamp-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2548908/ren-camp)
 [![Youtube Badge](https://img.shields.io/badge/GeekyCebuana%20-%23FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCZZgiEkVX4UeOJsNsezc6iA)
 [![Twitter Badge](https://img.shields.io/badge/@TheMrsStanforth%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/@TheMrsStanforth)
-[![Gmail Badge](https://img.shields.io/badge/-renee.campanilla-c14438?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:renee.campanilla@gmail.com)](mailto:renee.campanilla@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-mail@renstanforth.com-c14438?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@renstanforth.com)](mailto:mail@renstanforth.com)
