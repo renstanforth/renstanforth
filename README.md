@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Welcome to my profile!
-I am currently a FullStack WordPress Developer from <img src="https://cdn-icons-png.flaticon.com/512/203/203027.png" width="20"/> <b>Cebu, Philippines</b> and will migrate to the <img src="https://cdn-icons-png.flaticon.com/512/202/202839.png" width="20"/> UK soon! I'm also a Deputy Manager for my employer's WordPress Department and handling a team with 11 members.
+I am currently a FullStack WordPress Developer from <img src="https://cdn-icons-png.flaticon.com/512/203/203027.png" width="20"/> <b>Cebu, Philippines</b>. I'm also a Deputy Manager for my employer's WordPress Department and handling a team with 11 members.
 
 Thanks for the visit! I'd love to [connect](https://www.linkedin.com/in/renstanforth/)!
 
