@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my profile!
-I am currently a FullStack WordPress Developer from <img src="https://cdn-icons-png.flaticon.com/512/203/203027.png" width="20"/> <b>Cebu, Philippines</b>. I'm also a Deputy Manager for my employer's WordPress Department and handling a team with 11 members.
+I'm a WordPress enthusiast, and developer from <img src="https://cdn-icons-png.flaticon.com/512/203/203027.png" width="20"/> <b>Cebu, Philippines</b>. I am a WordPress deputy manager for createIT, a software development company based in Poland. I've worked on a variety of projects, and I have met some of the most brilliant minds in the IT industry who have taught me so much and helped shape my career. My passion lies in creating efficient, user-friendly WordPress solutions and mentoring others to reach their full potential in web development.
 
 Thanks for the visit! I'd love to [connect](https://www.linkedin.com/in/renstanforth/)!
 
