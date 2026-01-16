@@ -25,9 +25,6 @@ Thanks for the visit! I'd love to [connect](https://www.linkedin.com/in/renstanf
 ### I also have experience in deployment with
 <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=flat-square&logo=digitalOcean&logoColor=white"/> <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=flat-square&logo=firebase"/>
 
-## My Github Public Stats
-[![Ren's github stats](https://github-readme-stats.vercel.app/api?username=renstanforth&show_icons=true&theme=vue)](https://github.com/renstanforth/github-readme-stats)
-
 ## Where to find me
 [![Website Badge](https://img.shields.io/badge/website-RENSTANFORTH.COM-blueviolet?&style=flat-square)](https://renstanforth.com/)
 [![Linkedin Badge](https://img.shields.io/badge/RENSTANFORTH%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renstanforth/)
